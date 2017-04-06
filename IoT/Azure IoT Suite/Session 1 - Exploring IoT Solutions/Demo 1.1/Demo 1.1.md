@@ -108,7 +108,7 @@ Each attendee will point their smartphone browsers to a Web page that will simul
 
 4.  Next, select IoT Hub in the results tile.
 
-> <img src="./media/image15.png" width="624" height="369" />
+    <img src="./media/image15.png" width="624" height="369" />
 
 1.  Click the Create button.
 
@@ -186,7 +186,7 @@ The messages sent to IoT Hub will be read and analysed using Stream Analytics.
 
 5.  Click on the Inputs tile.
 
-> <img src="./media/image26.png" width="624" height="416" />
+    <img src="./media/image26.png" width="624" height="416" />
 
 1.  Click Add
 
