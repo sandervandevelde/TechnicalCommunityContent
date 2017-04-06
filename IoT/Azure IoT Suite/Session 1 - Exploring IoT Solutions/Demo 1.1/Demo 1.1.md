@@ -300,6 +300,8 @@ The last step to prepare this demo is to configure a report in Power BI.
 
 6.  Let’s now create a line chart to display the average telemetry for all devices over time.
 
+7.  Make sure the card is not selected anymore, otherwise it will be changed into the new visualization.
+
 7.  Click on the Line visualization, select the avgtelemetry and outtime fields. Make sure that outtime is in the Axis section (you can drag&drop it if needed) and that avgtelemetry is in the Values section. *Select Average from the dropdown menu to average the avgtelemetry field.*
 
     <img src="./media/image49.png" width="349" height="644" />
